@@ -1,19 +1,16 @@
-<h1 align="center">🏆Senior Full Stack and Blockchain Dev🏆</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm a Senior Full-Stack Developer<br>who LOVES KEEPING IN TOUCH WITH COLLEAGUES at anytime.</h1>
+<h2 align="center">🏆A passionate & creative Web and Blockchain Dev🏆</h2>
 <br>
 
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style = "width: -webkit-fill-available;"/></p>
 
-<h3>🥇My Github state🥇</h3>
-
+<h3 align="center">🥇My Github state🥇</h3>
 <p align="center">
-<a href="https://github.com/RedBlood639">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RedBlood639&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RedBlood639&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/goldliondev512">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goldliondev512&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goldliondev512&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=goldliondev512&show_icons=true&theme=tokyonight)
-<br>
 
 <h3 align="left">🥇Languages and Tools🥇</h3>
 
