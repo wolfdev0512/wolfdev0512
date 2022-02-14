@@ -7,13 +7,13 @@
 <h3 align="center">🥇My Github state🥇</h3>
 
 <p align="center">
-  <a href="https://github.com/goldliondev512">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=goldliondev512&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=goldliondev512&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Minato512">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Minato512&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Minato512&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=goldliondev512&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Minato512&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 <h3 align="left">🥇Languages and Tools🥇</h3>
 
