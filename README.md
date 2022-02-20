@@ -1,6 +1,9 @@
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm a Senior Full-Stack Developer<br>who LOVES KEEPING IN TOUCH WITH COLLEAGUES at anytime.</h1>
 <h2 align="center">🏆A passionate & creative Web and Blockchain Dev🏆</h2>
 <br>
+<p align="center"><a href="https://app.daily.dev/MinatoNamikaze"><img src="https://api.daily.dev/devcards/8556d7706a7d4f7484d6565cea478e24.png?r=our" width="400" alt="Minato Namikaze's Dev Card"/></a></p>
 
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style = "width: -webkit-fill-available;"/></p>
 
