@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="https://app.daily.dev/MinatoNamikaze">
-  <img src="https://github.com/Minato512/Minato512/blob/main/devcard.svg" width="400" alt="Piranha0103's Dev Card"/>
+  <img src="https://github.com/Minato512/Minato512/blob/main/devcard.svg" width="400" alt="Minato512's Dev Card"/>
  </a>
 </p>
 
