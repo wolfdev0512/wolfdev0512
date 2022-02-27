@@ -4,11 +4,6 @@
 <h2 align="center">🏆A passionate & creative Web and Blockchain Dev🏆</h2>
 <br>
 
-<p align="center">
- <a href="https://app.daily.dev/MinatoNamikaze">
-  <img src="https://github.com/Minato512/Minato512/blob/main/devcard.svg" width="400" alt="Minato512's Dev Card"/>
- </a>
-</p>
 
 
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style = "width: -webkit-fill-available;"/></p>
