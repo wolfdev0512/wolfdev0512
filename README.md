@@ -5,61 +5,62 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
-      </a>
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
-      </a>
-      <br>Binance
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/icp.png" width="48" height="48" alt="Avalanche" />
-      </a>
+      
+        <img src="./pics/icp.png" width="48" height="48" alt="Internet Computer" />
+      
       <br>Internet Computer
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
-      </a>
-      <br>Polygon
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
-      </a>
-      <br>Cronos
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/Lukso.png" width="48" height="48" alt="Lukso" />
-      </a>
-      <br>Lukso
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
+      
         <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
-      </a>
+      
       <br>Solana
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      
+        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
+      
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      
+        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
+      
+      <br>Binance
+    </td>
+    <td align="center" width="96">
+      
+        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
+      
+      <br>Polygon
+    </td>
+    <td align="center" width="96">
+      
+        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
+      
+      <br>Cronos
+    </td>
+    <td align="center" width="96">
+      
+        <img src="./pics/near.webp" width="48" height="48" alt="Lukso" />
+      
+      <br>Near
+    </td>
+    <td align="center" width="96">
+      
         <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
-      </a>
+      
       <br>Sui
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      
         <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
-      </a>
+      
       <br>Aptos
     </td>
   </tr>
 </table>
+
   
 ## Tools & languages
 
