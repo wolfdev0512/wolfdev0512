@@ -18,13 +18,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./pics/avalanche.svg" width="48" height="48" alt="Avalanche" />
+        <img src="./pics/icp.svg" width="48" height="48" alt="Avalanche" />
       </a>
       <br>Internet Computer
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./pics/icp.png" width="48" height="48" alt="Polygon" />
+        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
       </a>
       <br>Polygon
     </td>
