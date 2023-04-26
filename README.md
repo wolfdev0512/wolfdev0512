@@ -1,6 +1,11 @@
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/93314018/234635823-79fdd513-5034-4371-970f-ae86463e7ae4.jpg" alt="Internet Computer" />
+   <p>
+✶✧  🎀  𝒮𝑒𝓃𝒾❀𝓇 𝐹𝓊𝓁𝓁 𝒮𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇  🎀  ✧✶
+   </p>
 </div>
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/93314018/234635823-79fdd513-5034-4371-970f-ae86463e7ae4.jpg" alt="Internet Computer" />
+
 
 ## Experienced Blockchain Networks
 <div align="center">
