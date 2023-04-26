@@ -1,47 +1,48 @@
 ![5633851](https://user-images.githubusercontent.com/93314018/234635823-79fdd513-5034-4371-970f-ae86463e7ae4.jpg)
 
 ## Experienced Blockchain Networks
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="./pics/icp.png" width="48" height="48" alt="Internet Computer" />
-      <br>Internet Computer
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
-      <br>Binance
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
-      <br>Polygon
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
-      <br>Cronos
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/near.webp" width="48" height="48" alt="Lukso" />
-      <br>Near
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
-      <br>Sui
-    </td>
-    <td align="center" width="96">
-        <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
-      <br>Aptos
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+          <img src="./pics/icp.png" width="48" height="48" alt="Internet Computer" />
+        <br>Internet Computer
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+        <br>Solana
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
+        <br>Ethereum
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
+        <br>Binance
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
+        <br>Polygon
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
+        <br>Cronos
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/near.png" width="48" height="48" alt="Lukso" />
+        <br>Near
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
+        <br>Sui
+      </td>
+      <td align="center" width="96">
+          <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
+        <br>Aptos
+      </td>
+    </tr>
+  </table>
+</p>
 
   
 ## Tools & languages
