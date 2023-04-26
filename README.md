@@ -5,9 +5,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      
         <img src="./pics/icp.png" width="48" height="48" alt="Internet Computer" />
-      
       <br>Internet Computer
     </td>
     <td align="center" width="96">
