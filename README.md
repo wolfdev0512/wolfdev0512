@@ -1,9 +1,8 @@
-<div align="center"  style="transform: scale(2);">
-      ✶✧  🎀  𝒮𝑒𝓃𝒾❀𝓇 𝐹𝓊𝓁𝓁 𝒮𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇  🎀  ✧✶
-</div>
-<br>
 
 <div align="center">
+
+##      ✶✧  🎀  𝒮𝑒𝓃𝒾❀𝓇 𝐹𝓊𝓁𝓁 𝒮𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇  🎀  ✧✶
+
    <img src="https://user-images.githubusercontent.com/93314018/234635823-79fdd513-5034-4371-970f-ae86463e7ae4.jpg" alt="Internet Computer" />
 
 
@@ -133,3 +132,4 @@
     </tr>
   </table>
  </div>
+      </div>
